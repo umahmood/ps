@@ -71,7 +71,7 @@ As there are multiple `proc_foo` processes, calling `ps.Snapshot("proc_foo")` wi
 throw an error. I may update the library to change this, but currently it fits 
 my needs. 
 
-This library has been tested Linux and MacOS, it may not work on windows. 
+This library has been tested on Linux and MacOS, it may not work on windows. 
 
 # Documentation
 
